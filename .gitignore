@@ -1,4 +1,7 @@
 .idea
 .ipynb_checkpoints
+venv
 
 token.txt
+notebook
+
